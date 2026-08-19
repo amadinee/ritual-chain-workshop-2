@@ -1,0 +1,13 @@
+{
+  "name": "reversal-prediction",
+  "version": "1.0.0",
+  "description": "Price reversal scanner for trend change detection",
+  "main": "reversal-scanner.js",
+  "scripts": {
+    "start": "node reversal-demo.js",
+    "test": "node reversal-demo.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
